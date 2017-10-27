@@ -37,11 +37,7 @@ aside {
 	position: absolute;
 	top: 120px;
 	right: 150px;
-	/*float: right;*/
-	/*clear: left;*/
-	/*padding: 5px;*/
-	/*margin: 20px 20px 20px 50px;*/
-	/*width: 270px;*/
+	
 }
 
 .icons {
@@ -127,6 +123,8 @@ input {
 
 button {
 	margin: 10px;
+	background-color: green;
+	color: white;
 }
 
 
@@ -226,25 +224,7 @@ button {
 	left: 540px;
 	right: 180px;
 }
-/*
-.container_left {
-	text-align: center;
-	padding: 10px 20px;
-	width: 50px;
-	background-color: green;
-	color: white;
-	float: left;
-}
 
-.container_right {
-	text-align: center;
-	padding: 10px 20px;
-	width: 50px;
-	background-color: green;
-	color: white;
-	float: right;
-}
-*/
 
 #Portfolio_Heading {
 	color: green;
