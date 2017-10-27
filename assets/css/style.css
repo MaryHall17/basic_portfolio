@@ -1,0 +1,253 @@
+/*Common Styling*/
+body {
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	background-color:#dddddd;
+	width: 960px;
+}
+
+.header_background {
+	background-color: #ffffff;
+	padding: 10px 10px 5px 10px;
+	overflow: auto;
+	width: 1270px;
+}
+header {
+	font-family: 'Georgia', Times, "Times New Roman", serif;
+	color: white;
+	font-size: 25px;
+	background-color: green;
+	float: left;
+	padding: 25px;
+	margin: 20px 220px 0px 30px;
+	clear: bottom;
+}
+	nav {
+		float: right;
+		margin: 20px 30px 0px 220px;
+		padding: 25px;
+	}
+
+a {
+	color:gray;
+
+}
+
+aside {
+	background-color:#ffffff;
+	position: absolute;
+	top: 120px;
+	right: 150px;
+	/*float: right;*/
+	/*clear: left;*/
+	/*padding: 5px;*/
+	/*margin: 20px 20px 20px 50px;*/
+	/*width: 270px;*/
+}
+
+.icons {
+	width: 50px;
+	height: 50px;
+	padding: 10px 5px 10px 25px;
+}
+
+#Connect {
+	text-align: center;
+	color: green;
+	font-size: 18px;
+	
+}
+
+
+footer {
+	clear: both;
+	background-color: #666666;
+	padding: 20px;
+	text-align: center;
+	width: 1270px;
+}
+
+/*About Page Styling*/
+
+#About {
+	background-color:#ffffff;
+	float: left;
+	clear: right;
+	margin: 10px 20px 25px 30px;
+	width: 650px;
+	padding: 20px;
+	overflow: auto;
+}
+
+#About_Heading {
+	color: green;
+	font-size: 18px;
+}
+
+#Profile_Shot {
+	float: right;
+	height: 30%;
+	width: 15%;
+	margin: 0 0 10px 10px;
+
+}
+
+#About_Content {
+	font-size: 16px;
+	line-height: auto;
+	margin: auto;
+	padding: 10px;
+}
+
+/*Contact Page Styling*/
+
+#Contact {
+	background-color:#ffffff;
+	float: left;
+	clear: right;
+	margin: 10px 20px 25px 30px;
+	width: 650px;
+	padding: 20px;
+	overflow: auto;
+}
+
+#Contact_Heading {
+	color: green;
+	font-size: 18px;
+}
+
+form {
+	margin: 10px;
+	line-height: 20px;
+}
+
+input {
+	margin: 10px;
+	line-height: 15px;
+}
+
+button {
+	margin: 10px;
+}
+
+
+#submit_hack {
+	color: #ffffff;
+}
+
+#message {
+	padding: 50px;
+}
+
+#Portfolio {
+	background-color:#ffffff;
+	float: left;
+	clear: right;
+	margin: 10px 20px 25px 30px;
+	width: 650px;
+	padding: 20px;
+	overflow: auto;
+}
+
+.portfolio_image_left {
+	height: 175px;
+	width: 175px;
+	padding: 20px;
+	background-color: #ffffff;
+	margin-bottom: 25px;
+	float: left;
+}
+
+.portfolio_image_right {
+	height: 175px;
+	width: 175px;
+	padding: 20px;
+	background-color: #ffffff;
+	margin-bottom: 25px;
+	float: right;
+}
+
+#captionKarokeApp {
+	text-align: center;
+	padding: 10px 20px;
+	width: 50px;
+	background-color: green;
+	color: white;
+	position: absolute;
+	top:320px;
+	right:100px; 
+	left:115px;
+}
+
+#captionRecipeFinderApp {
+	text-align: center;
+	padding: 10px 20px;
+	width: 50px;
+	background-color: green;
+	color: white;
+	position: absolute;
+	top: 305px;
+	left: 550px;
+	right: 180px;
+
+}
+
+#captionStudioRecordingApp {
+	text-align: center;
+	padding: 10px 20px;
+	width: 60px;
+	background-color: green;
+	color: white;
+	position: absolute;
+	top: 305px;
+	left: 325px;
+	right: 250px;
+}
+
+#captionTicTacToe {
+	text-align: center;
+	padding: 10px 20px;
+	width: 70px;
+	background-color: green;
+	color: white;
+	position: absolute;
+	top: 560px;
+	left: 100px;
+	right: 100px;
+}
+
+#captionStrategyGame {
+	text-align: center;
+	padding: 10px 20px;
+	width: 70px;
+	background-color: green;
+	color: white;
+	position: absolute;
+	top: 560px;
+	left: 540px;
+	right: 180px;
+}
+/*
+.container_left {
+	text-align: center;
+	padding: 10px 20px;
+	width: 50px;
+	background-color: green;
+	color: white;
+	float: left;
+}
+
+.container_right {
+	text-align: center;
+	padding: 10px 20px;
+	width: 50px;
+	background-color: green;
+	color: white;
+	float: right;
+}
+*/
+
+#Portfolio_Heading {
+	color: green;
+	font-size: 18px;
+}
+
